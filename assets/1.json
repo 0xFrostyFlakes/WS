@@ -1,0 +1,14 @@
+{
+  "name": "WealthShift Test #2",
+  "symbol": "WSTEST",
+  "description": "A test NFT that shifts between Rich and Poor every 10 minutes.",
+  "image": "https://i.ibb.co/1SDsW4D/poor-2.png",
+  "attributes": [
+    {"trait_type": "ID", "value": "2"},
+    {"trait_type": "Status", "value": "Poor"},
+    {"trait_type": "Portfolio Value", "value": "0"},
+    {"trait_type": "Net Change", "value": "0%"}
+  ],
+  "collection": {"name": "WealthShift Test NFTs", "family": "Test NFTs"},
+  "seller_fee_basis_points": 550
+}
